@@ -1,0 +1,553 @@
+<?xml version="1.0" ?>
+<Flights>
+  <Flight>
+    <FlightID>FL001</FlightID>
+    <Origin>Dallas</Origin>
+    <Destination>Los Angeles</Destination>
+    <DepartureDate>2024-09-01</DepartureDate>
+    <ArrivalDate>2024-09-01</ArrivalDate>
+    <DepartureTime>04:03</DepartureTime>
+    <ArrivalTime>07:41</ArrivalTime>
+    <AvailableSeats>81</AvailableSeats>
+    <Price>$200</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL002</FlightID>
+    <Origin>Houston</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-09-04</DepartureDate>
+    <ArrivalDate>2024-09-04</ArrivalDate>
+    <DepartureTime>03:18</DepartureTime>
+    <ArrivalTime>05:53</ArrivalTime>
+    <AvailableSeats>25</AvailableSeats>
+    <Price>$300</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL003</FlightID>
+    <Origin>Houston</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-09-07</DepartureDate>
+    <ArrivalDate>2024-09-07</ArrivalDate>
+    <DepartureTime>22:28</DepartureTime>
+    <ArrivalTime>23:44</ArrivalTime>
+    <AvailableSeats>31</AvailableSeats>
+    <Price>$150</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL004</FlightID>
+    <Origin>Houston</Origin>
+    <Destination>Los Angeles</Destination>
+    <DepartureDate>2024-09-10</DepartureDate>
+    <ArrivalDate>2024-09-10</ArrivalDate>
+    <DepartureTime>21:49</DepartureTime>
+    <ArrivalTime>02:48</ArrivalTime>
+    <AvailableSeats>44</AvailableSeats>
+    <Price>$150</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL005</FlightID>
+    <Origin>Houston</Origin>
+    <Destination>San Francisco</Destination>
+    <DepartureDate>2024-09-13</DepartureDate>
+    <ArrivalDate>2024-09-14</ArrivalDate>
+    <DepartureTime>07:10</DepartureTime>
+    <ArrivalTime>10:53</ArrivalTime>
+    <AvailableSeats>58</AvailableSeats>
+    <Price>$300</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL006</FlightID>
+    <Origin>San Antonio</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-09-16</DepartureDate>
+    <ArrivalDate>2024-09-17</ArrivalDate>
+    <DepartureTime>02:45</DepartureTime>
+    <ArrivalTime>06:29</ArrivalTime>
+    <AvailableSeats>62</AvailableSeats>
+    <Price>$300</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL007</FlightID>
+    <Origin>Austin</Origin>
+    <Destination>San Francisco</Destination>
+    <DepartureDate>2024-09-19</DepartureDate>
+    <ArrivalDate>2024-09-20</ArrivalDate>
+    <DepartureTime>14:29</DepartureTime>
+    <ArrivalTime>19:46</ArrivalTime>
+    <AvailableSeats>93</AvailableSeats>
+    <Price>$350</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL008</FlightID>
+    <Origin>Dallas</Origin>
+    <Destination>Sacramento</Destination>
+    <DepartureDate>2024-09-22</DepartureDate>
+    <ArrivalDate>2024-09-22</ArrivalDate>
+    <DepartureTime>12:27</DepartureTime>
+    <ArrivalTime>16:11</ArrivalTime>
+    <AvailableSeats>88</AvailableSeats>
+    <Price>$150</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL009</FlightID>
+    <Origin>Austin</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-09-25</DepartureDate>
+    <ArrivalDate>2024-09-26</ArrivalDate>
+    <DepartureTime>22:27</DepartureTime>
+    <ArrivalTime>00:57</ArrivalTime>
+    <AvailableSeats>70</AvailableSeats>
+    <Price>$150</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL010</FlightID>
+    <Origin>Dallas</Origin>
+    <Destination>San Francisco</Destination>
+    <DepartureDate>2024-09-28</DepartureDate>
+    <ArrivalDate>2024-09-28</ArrivalDate>
+    <DepartureTime>06:09</DepartureTime>
+    <ArrivalTime>07:06</ArrivalTime>
+    <AvailableSeats>100</AvailableSeats>
+    <Price>$300</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL011</FlightID>
+    <Origin>Houston</Origin>
+    <Destination>Sacramento</Destination>
+    <DepartureDate>2024-10-01</DepartureDate>
+    <ArrivalDate>2024-10-02</ArrivalDate>
+    <DepartureTime>02:23</DepartureTime>
+    <ArrivalTime>04:41</ArrivalTime>
+    <AvailableSeats>59</AvailableSeats>
+    <Price>$350</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL012</FlightID>
+    <Origin>Houston</Origin>
+    <Destination>San Francisco</Destination>
+    <DepartureDate>2024-10-04</DepartureDate>
+    <ArrivalDate>2024-10-05</ArrivalDate>
+    <DepartureTime>14:55</DepartureTime>
+    <ArrivalTime>15:02</ArrivalTime>
+    <AvailableSeats>98</AvailableSeats>
+    <Price>$250</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL013</FlightID>
+    <Origin>San Antonio</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-10-07</DepartureDate>
+    <ArrivalDate>2024-10-07</ArrivalDate>
+    <DepartureTime>20:29</DepartureTime>
+    <ArrivalTime>01:39</ArrivalTime>
+    <AvailableSeats>38</AvailableSeats>
+    <Price>$300</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL014</FlightID>
+    <Origin>Dallas</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-10-10</DepartureDate>
+    <ArrivalDate>2024-10-10</ArrivalDate>
+    <DepartureTime>04:52</DepartureTime>
+    <ArrivalTime>06:19</ArrivalTime>
+    <AvailableSeats>54</AvailableSeats>
+    <Price>$200</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL015</FlightID>
+    <Origin>Dallas</Origin>
+    <Destination>Los Angeles</Destination>
+    <DepartureDate>2024-10-13</DepartureDate>
+    <ArrivalDate>2024-10-13</ArrivalDate>
+    <DepartureTime>09:05</DepartureTime>
+    <ArrivalTime>14:29</ArrivalTime>
+    <AvailableSeats>86</AvailableSeats>
+    <Price>$150</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL016</FlightID>
+    <Origin>Dallas</Origin>
+    <Destination>Los Angeles</Destination>
+    <DepartureDate>2024-10-16</DepartureDate>
+    <ArrivalDate>2024-10-17</ArrivalDate>
+    <DepartureTime>06:55</DepartureTime>
+    <ArrivalTime>10:51</ArrivalTime>
+    <AvailableSeats>93</AvailableSeats>
+    <Price>$200</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL017</FlightID>
+    <Origin>Austin</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-10-19</DepartureDate>
+    <ArrivalDate>2024-10-19</ArrivalDate>
+    <DepartureTime>09:45</DepartureTime>
+    <ArrivalTime>13:18</ArrivalTime>
+    <AvailableSeats>41</AvailableSeats>
+    <Price>$200</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL018</FlightID>
+    <Origin>San Antonio</Origin>
+    <Destination>San Francisco</Destination>
+    <DepartureDate>2024-10-22</DepartureDate>
+    <ArrivalDate>2024-10-23</ArrivalDate>
+    <DepartureTime>13:20</DepartureTime>
+    <ArrivalTime>15:53</ArrivalTime>
+    <AvailableSeats>20</AvailableSeats>
+    <Price>$350</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL019</FlightID>
+    <Origin>Houston</Origin>
+    <Destination>San Francisco</Destination>
+    <DepartureDate>2024-10-25</DepartureDate>
+    <ArrivalDate>2024-10-25</ArrivalDate>
+    <DepartureTime>11:31</DepartureTime>
+    <ArrivalTime>14:24</ArrivalTime>
+    <AvailableSeats>65</AvailableSeats>
+    <Price>$300</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL020</FlightID>
+    <Origin>San Antonio</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-10-28</DepartureDate>
+    <ArrivalDate>2024-10-29</ArrivalDate>
+    <DepartureTime>17:29</DepartureTime>
+    <ArrivalTime>18:00</ArrivalTime>
+    <AvailableSeats>55</AvailableSeats>
+    <Price>$250</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL021</FlightID>
+    <Origin>Houston</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-10-31</DepartureDate>
+    <ArrivalDate>2024-11-01</ArrivalDate>
+    <DepartureTime>10:07</DepartureTime>
+    <ArrivalTime>13:30</ArrivalTime>
+    <AvailableSeats>49</AvailableSeats>
+    <Price>$200</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL022</FlightID>
+    <Origin>Dallas</Origin>
+    <Destination>Los Angeles</Destination>
+    <DepartureDate>2024-11-03</DepartureDate>
+    <ArrivalDate>2024-11-04</ArrivalDate>
+    <DepartureTime>16:43</DepartureTime>
+    <ArrivalTime>21:53</ArrivalTime>
+    <AvailableSeats>44</AvailableSeats>
+    <Price>$250</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL023</FlightID>
+    <Origin>Dallas</Origin>
+    <Destination>Sacramento</Destination>
+    <DepartureDate>2024-11-06</DepartureDate>
+    <ArrivalDate>2024-11-07</ArrivalDate>
+    <DepartureTime>09:56</DepartureTime>
+    <ArrivalTime>11:40</ArrivalTime>
+    <AvailableSeats>24</AvailableSeats>
+    <Price>$300</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL024</FlightID>
+    <Origin>Austin</Origin>
+    <Destination>San Francisco</Destination>
+    <DepartureDate>2024-11-09</DepartureDate>
+    <ArrivalDate>2024-11-09</ArrivalDate>
+    <DepartureTime>15:53</DepartureTime>
+    <ArrivalTime>19:07</ArrivalTime>
+    <AvailableSeats>27</AvailableSeats>
+    <Price>$150</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL025</FlightID>
+    <Origin>Dallas</Origin>
+    <Destination>Los Angeles</Destination>
+    <DepartureDate>2024-11-12</DepartureDate>
+    <ArrivalDate>2024-11-13</ArrivalDate>
+    <DepartureTime>01:42</DepartureTime>
+    <ArrivalTime>04:27</ArrivalTime>
+    <AvailableSeats>85</AvailableSeats>
+    <Price>$300</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL026</FlightID>
+    <Origin>Austin</Origin>
+    <Destination>Los Angeles</Destination>
+    <DepartureDate>2024-11-15</DepartureDate>
+    <ArrivalDate>2024-11-15</ArrivalDate>
+    <DepartureTime>22:50</DepartureTime>
+    <ArrivalTime>02:46</ArrivalTime>
+    <AvailableSeats>60</AvailableSeats>
+    <Price>$250</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL027</FlightID>
+    <Origin>San Antonio</Origin>
+    <Destination>Sacramento</Destination>
+    <DepartureDate>2024-11-18</DepartureDate>
+    <ArrivalDate>2024-11-19</ArrivalDate>
+    <DepartureTime>12:25</DepartureTime>
+    <ArrivalTime>16:52</ArrivalTime>
+    <AvailableSeats>25</AvailableSeats>
+    <Price>$150</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL028</FlightID>
+    <Origin>Dallas</Origin>
+    <Destination>Sacramento</Destination>
+    <DepartureDate>2024-11-21</DepartureDate>
+    <ArrivalDate>2024-11-21</ArrivalDate>
+    <DepartureTime>23:59</DepartureTime>
+    <ArrivalTime>02:04</ArrivalTime>
+    <AvailableSeats>32</AvailableSeats>
+    <Price>$250</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL029</FlightID>
+    <Origin>Austin</Origin>
+    <Destination>Los Angeles</Destination>
+    <DepartureDate>2024-11-24</DepartureDate>
+    <ArrivalDate>2024-11-25</ArrivalDate>
+    <DepartureTime>09:08</DepartureTime>
+    <ArrivalTime>10:30</ArrivalTime>
+    <AvailableSeats>79</AvailableSeats>
+    <Price>$150</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL030</FlightID>
+    <Origin>San Antonio</Origin>
+    <Destination>Sacramento</Destination>
+    <DepartureDate>2024-11-27</DepartureDate>
+    <ArrivalDate>2024-11-27</ArrivalDate>
+    <DepartureTime>17:22</DepartureTime>
+    <ArrivalTime>18:56</ArrivalTime>
+    <AvailableSeats>63</AvailableSeats>
+    <Price>$150</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL031</FlightID>
+    <Origin>Austin</Origin>
+    <Destination>Los Angeles</Destination>
+    <DepartureDate>2024-11-30</DepartureDate>
+    <ArrivalDate>2024-12-01</ArrivalDate>
+    <DepartureTime>21:28</DepartureTime>
+    <ArrivalTime>01:29</ArrivalTime>
+    <AvailableSeats>39</AvailableSeats>
+    <Price>$150</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL032</FlightID>
+    <Origin>Houston</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-11-23</DepartureDate>
+    <ArrivalDate>2024-11-24</ArrivalDate>
+    <DepartureTime>08:29</DepartureTime>
+    <ArrivalTime>11:02</ArrivalTime>
+    <AvailableSeats>31</AvailableSeats>
+    <Price>$250</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL033</FlightID>
+    <Origin>Houston</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-11-06</DepartureDate>
+    <ArrivalDate>2024-11-06</ArrivalDate>
+    <DepartureTime>22:36</DepartureTime>
+    <ArrivalTime>02:47</ArrivalTime>
+    <AvailableSeats>52</AvailableSeats>
+    <Price>$250</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL034</FlightID>
+    <Origin>San Antonio</Origin>
+    <Destination>Los Angeles</Destination>
+    <DepartureDate>2024-10-09</DepartureDate>
+    <ArrivalDate>2024-10-09</ArrivalDate>
+    <DepartureTime>08:54</DepartureTime>
+    <ArrivalTime>12:11</ArrivalTime>
+    <AvailableSeats>46</AvailableSeats>
+    <Price>$300</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL035</FlightID>
+    <Origin>Austin</Origin>
+    <Destination>Los Angeles</Destination>
+    <DepartureDate>2024-09-19</DepartureDate>
+    <ArrivalDate>2024-09-19</ArrivalDate>
+    <DepartureTime>14:59</DepartureTime>
+    <ArrivalTime>18:11</ArrivalTime>
+    <AvailableSeats>43</AvailableSeats>
+    <Price>$150</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL036</FlightID>
+    <Origin>San Antonio</Origin>
+    <Destination>Los Angeles</Destination>
+    <DepartureDate>2024-10-27</DepartureDate>
+    <ArrivalDate>2024-10-28</ArrivalDate>
+    <DepartureTime>04:14</DepartureTime>
+    <ArrivalTime>05:02</ArrivalTime>
+    <AvailableSeats>76</AvailableSeats>
+    <Price>$300</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL037</FlightID>
+    <Origin>Austin</Origin>
+    <Destination>Sacramento</Destination>
+    <DepartureDate>2024-11-03</DepartureDate>
+    <ArrivalDate>2024-11-04</ArrivalDate>
+    <DepartureTime>14:29</DepartureTime>
+    <ArrivalTime>17:27</ArrivalTime>
+    <AvailableSeats>22</AvailableSeats>
+    <Price>$250</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL038</FlightID>
+    <Origin>San Antonio</Origin>
+    <Destination>Sacramento</Destination>
+    <DepartureDate>2024-11-21</DepartureDate>
+    <ArrivalDate>2024-11-21</ArrivalDate>
+    <DepartureTime>01:01</DepartureTime>
+    <ArrivalTime>03:47</ArrivalTime>
+    <AvailableSeats>35</AvailableSeats>
+    <Price>$200</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL039</FlightID>
+    <Origin>Dallas</Origin>
+    <Destination>San Francisco</Destination>
+    <DepartureDate>2024-12-01</DepartureDate>
+    <ArrivalDate>2024-12-01</ArrivalDate>
+    <DepartureTime>04:31</DepartureTime>
+    <ArrivalTime>07:27</ArrivalTime>
+    <AvailableSeats>77</AvailableSeats>
+    <Price>$150</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL040</FlightID>
+    <Origin>San Antonio</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-10-08</DepartureDate>
+    <ArrivalDate>2024-10-09</ArrivalDate>
+    <DepartureTime>19:23</DepartureTime>
+    <ArrivalTime>00:04</ArrivalTime>
+    <AvailableSeats>58</AvailableSeats>
+    <Price>$150</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL041</FlightID>
+    <Origin>Houston</Origin>
+    <Destination>Los Angeles</Destination>
+    <DepartureDate>2024-11-27</DepartureDate>
+    <ArrivalDate>2024-11-28</ArrivalDate>
+    <DepartureTime>15:12</DepartureTime>
+    <ArrivalTime>20:57</ArrivalTime>
+    <AvailableSeats>67</AvailableSeats>
+    <Price>$200</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL042</FlightID>
+    <Origin>Houston</Origin>
+    <Destination>Sacramento</Destination>
+    <DepartureDate>2024-10-30</DepartureDate>
+    <ArrivalDate>2024-10-30</ArrivalDate>
+    <DepartureTime>19:40</DepartureTime>
+    <ArrivalTime>22:22</ArrivalTime>
+    <AvailableSeats>40</AvailableSeats>
+    <Price>$300</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL043</FlightID>
+    <Origin>Dallas</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-11-13</DepartureDate>
+    <ArrivalDate>2024-11-14</ArrivalDate>
+    <DepartureTime>21:35</DepartureTime>
+    <ArrivalTime>22:30</ArrivalTime>
+    <AvailableSeats>62</AvailableSeats>
+    <Price>$300</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL044</FlightID>
+    <Origin>Houston</Origin>
+    <Destination>San Francisco</Destination>
+    <DepartureDate>2024-09-09</DepartureDate>
+    <ArrivalDate>2024-09-10</ArrivalDate>
+    <DepartureTime>21:04</DepartureTime>
+    <ArrivalTime>00:08</ArrivalTime>
+    <AvailableSeats>64</AvailableSeats>
+    <Price>$350</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL045</FlightID>
+    <Origin>Austin</Origin>
+    <Destination>San Francisco</Destination>
+    <DepartureDate>2024-09-13</DepartureDate>
+    <ArrivalDate>2024-09-14</ArrivalDate>
+    <DepartureTime>22:45</DepartureTime>
+    <ArrivalTime>23:25</ArrivalTime>
+    <AvailableSeats>86</AvailableSeats>
+    <Price>$350</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL046</FlightID>
+    <Origin>Austin</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-11-04</DepartureDate>
+    <ArrivalDate>2024-11-05</ArrivalDate>
+    <DepartureTime>08:08</DepartureTime>
+    <ArrivalTime>10:29</ArrivalTime>
+    <AvailableSeats>32</AvailableSeats>
+    <Price>$300</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL047</FlightID>
+    <Origin>San Antonio</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-11-12</DepartureDate>
+    <ArrivalDate>2024-11-12</ArrivalDate>
+    <DepartureTime>23:17</DepartureTime>
+    <ArrivalTime>03:26</ArrivalTime>
+    <AvailableSeats>87</AvailableSeats>
+    <Price>$200</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL048</FlightID>
+    <Origin>Houston</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-11-03</DepartureDate>
+    <ArrivalDate>2024-11-04</ArrivalDate>
+    <DepartureTime>18:27</DepartureTime>
+    <ArrivalTime>22:26</ArrivalTime>
+    <AvailableSeats>44</AvailableSeats>
+    <Price>$350</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL049</FlightID>
+    <Origin>Dallas</Origin>
+    <Destination>Los Angeles</Destination>
+    <DepartureDate>2024-09-21</DepartureDate>
+    <ArrivalDate>2024-09-21</ArrivalDate>
+    <DepartureTime>01:36</DepartureTime>
+    <ArrivalTime>03:01</ArrivalTime>
+    <AvailableSeats>79</AvailableSeats>
+    <Price>$200</Price>
+  </Flight>
+  <Flight>
+    <FlightID>FL050</FlightID>
+    <Origin>San Antonio</Origin>
+    <Destination>San Diego</Destination>
+    <DepartureDate>2024-10-09</DepartureDate>
+    <ArrivalDate>2024-10-10</ArrivalDate>
+    <DepartureTime>23:12</DepartureTime>
+    <ArrivalTime>03:16</ArrivalTime>
+    <AvailableSeats>97</AvailableSeats>
+    <Price>$200</Price>
+  </Flight>
+</Flights>
